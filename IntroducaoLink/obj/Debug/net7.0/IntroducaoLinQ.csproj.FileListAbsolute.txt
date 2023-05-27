@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\bin\Debug\net7.0\IntroducaoLinQ.exe
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\bin\Debug\net7.0\IntroducaoLinQ.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\bin\Debug\net7.0\IntroducaoLinQ.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\bin\Debug\net7.0\IntroducaoLinQ.dll
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\bin\Debug\net7.0\IntroducaoLinQ.pdb
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.dll
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\refint\IntroducaoLinQ.dll
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.pdb
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\IntroducaoLinQ.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\IntroducaoLink\IntroducaoLink\obj\Debug\net7.0\ref\IntroducaoLinQ.dll
